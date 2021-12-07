@@ -1,0 +1,601 @@
+Year,variable,value
+1990,Oil and petroleum products (excluding biofuel portion),374207.969
+1991,Oil and petroleum products (excluding biofuel portion),382444.375
+1992,Oil and petroleum products (excluding biofuel portion),380969.82
+1993,Oil and petroleum products (excluding biofuel portion),380781.043
+1994,Oil and petroleum products (excluding biofuel portion),378676.497
+1995,Oil and petroleum products (excluding biofuel portion),381054.299
+1996,Oil and petroleum products (excluding biofuel portion),394332.161
+1997,Oil and petroleum products (excluding biofuel portion),395646.481
+1998,Oil and petroleum products (excluding biofuel portion),404050.514
+1999,Oil and petroleum products (excluding biofuel portion),402447.328
+2000,Oil and petroleum products (excluding biofuel portion),396724.083
+2001,Oil and petroleum products (excluding biofuel portion),407129.583
+2002,Oil and petroleum products (excluding biofuel portion),402517.515
+2003,Oil and petroleum products (excluding biofuel portion),407561.044
+2004,Oil and petroleum products (excluding biofuel portion),408446.883
+2005,Oil and petroleum products (excluding biofuel portion),405166.278
+2006,Oil and petroleum products (excluding biofuel portion),403728.228
+2007,Oil and petroleum products (excluding biofuel portion),390356.312
+2008,Oil and petroleum products (excluding biofuel portion),390056.494
+2009,Oil and petroleum products (excluding biofuel portion),370676.995
+2010,Oil and petroleum products (excluding biofuel portion),366111.796
+2011,Oil and petroleum products (excluding biofuel portion),355139.782
+2012,Oil and petroleum products (excluding biofuel portion),342124.789
+2013,Oil and petroleum products (excluding biofuel portion),338307.841
+2014,Oil and petroleum products (excluding biofuel portion),333517.19
+2015,Oil and petroleum products (excluding biofuel portion),338935.045
+2016,Oil and petroleum products (excluding biofuel portion),343188.93
+2017,Oil and petroleum products (excluding biofuel portion),345819.321
+2018,Oil and petroleum products (excluding biofuel portion),344614.846
+2019,Oil and petroleum products (excluding biofuel portion),345671.42
+1990,Crude oil,39.044
+1991,Crude oil,33.136
+1992,Crude oil,19.362
+1993,Crude oil,15.537
+1994,Crude oil,15.489
+1995,Crude oil,14.267
+1996,Crude oil,13.249
+1997,Crude oil,13.239
+1998,Crude oil,13.244
+1999,Crude oil,13.242
+2000,Crude oil,13.134
+2001,Crude oil,17.364
+2002,Crude oil,18.325
+2003,Crude oil,15.155
+2004,Crude oil,16.188
+2005,Crude oil,14.156
+2006,Crude oil,13.14
+2007,Crude oil,13.14
+2008,Crude oil,12.124
+2009,Crude oil,12.124
+2010,Crude oil,12.124
+2011,Crude oil,12.124
+2012,Crude oil,12.124
+2013,Crude oil,12.124
+2014,Crude oil,7.072
+2015,Crude oil,0.0
+2016,Crude oil,0.0
+2017,Crude oil,0.0
+2018,Crude oil,0.0
+2019,Crude oil,0.0
+1990,Natural gas liquids,0.0
+1991,Natural gas liquids,0.0
+1992,Natural gas liquids,0.0
+1993,Natural gas liquids,0.0
+1994,Natural gas liquids,0.0
+1995,Natural gas liquids,0.0
+1996,Natural gas liquids,0.0
+1997,Natural gas liquids,0.0
+1998,Natural gas liquids,0.0
+1999,Natural gas liquids,0.0
+2000,Natural gas liquids,0.0
+2001,Natural gas liquids,0.0
+2002,Natural gas liquids,0.0
+2003,Natural gas liquids,0.0
+2004,Natural gas liquids,0.0
+2005,Natural gas liquids,0.0
+2006,Natural gas liquids,0.0
+2007,Natural gas liquids,47.7
+2008,Natural gas liquids,0.0
+2009,Natural gas liquids,15.357
+2010,Natural gas liquids,1.181
+2011,Natural gas liquids,0.0
+2012,Natural gas liquids,2.363
+2013,Natural gas liquids,3.544
+2014,Natural gas liquids,4.725
+2015,Natural gas liquids,7.088
+2016,Natural gas liquids,7.088
+2017,Natural gas liquids,6.717
+2018,Natural gas liquids,13.246
+2019,Natural gas liquids,25.13
+1990,Refinery gas,2548.698
+1991,Refinery gas,2259.173
+1992,Refinery gas,2317.825
+1993,Refinery gas,2283.233
+1994,Refinery gas,2651.189
+1995,Refinery gas,2484.768
+1996,Refinery gas,2371.938
+1997,Refinery gas,2569.226
+1998,Refinery gas,2675.733
+1999,Refinery gas,2691.163
+2000,Refinery gas,2910.689
+2001,Refinery gas,3195.059
+2002,Refinery gas,3476.746
+2003,Refinery gas,4164.415
+2004,Refinery gas,3791.503
+2005,Refinery gas,3439.479
+2006,Refinery gas,3950.395
+2007,Refinery gas,4674.245
+2008,Refinery gas,4111.088
+2009,Refinery gas,3698.203
+2010,Refinery gas,3857.791
+2011,Refinery gas,3397.974
+2012,Refinery gas,3579.863
+2013,Refinery gas,3271.802
+2014,Refinery gas,3369.149
+2015,Refinery gas,3454.971
+2016,Refinery gas,3706.369
+2017,Refinery gas,3683.889
+2018,Refinery gas,3979.128
+2019,Refinery gas,4074.133
+1990,Ethane,0.0
+1991,Ethane,0.0
+1992,Ethane,0.0
+1993,Ethane,0.0
+1994,Ethane,0.0
+1995,Ethane,0.0
+1996,Ethane,0.0
+1997,Ethane,0.0
+1998,Ethane,0.0
+1999,Ethane,0.0
+2000,Ethane,0.0
+2001,Ethane,0.0
+2002,Ethane,0.0
+2003,Ethane,0.0
+2004,Ethane,14.407
+2005,Ethane,15.515
+2006,Ethane,4.433
+2007,Ethane,7.925
+2008,Ethane,10.189
+2009,Ethane,0.0
+2010,Ethane,0.0
+2011,Ethane,0.0
+2012,Ethane,0.0
+2013,Ethane,0.0
+2014,Ethane,0.0
+2015,Ethane,0.0
+2016,Ethane,0.0
+2017,Ethane,0.0
+2018,Ethane,0.0
+2019,Ethane,0.0
+1990,Liquefied petroleum gases,16191.695
+1991,Liquefied petroleum gases,17401.391
+1992,Liquefied petroleum gases,16912.51
+1993,Liquefied petroleum gases,17166.216
+1994,Liquefied petroleum gases,17627.299
+1995,Liquefied petroleum gases,17422.526
+1996,Liquefied petroleum gases,18578.585
+1997,Liquefied petroleum gases,18539.319
+1998,Liquefied petroleum gases,18890.711
+1999,Liquefied petroleum gases,19646.561
+2000,Liquefied petroleum gases,19465.326
+2001,Liquefied petroleum gases,19344.389
+2002,Liquefied petroleum gases,19102.628
+2003,Liquefied petroleum gases,19091.969
+2004,Liquefied petroleum gases,19157.619
+2005,Liquefied petroleum gases,19408.205
+2006,Liquefied petroleum gases,18771.095
+2007,Liquefied petroleum gases,18180.783
+2008,Liquefied petroleum gases,18069.331
+2009,Liquefied petroleum gases,17679.868
+2010,Liquefied petroleum gases,18038.681
+2011,Liquefied petroleum gases,17157.266
+2012,Liquefied petroleum gases,16750.657
+2013,Liquefied petroleum gases,16860.12
+2014,Liquefied petroleum gases,16178.775
+2015,Liquefied petroleum gases,16216.775
+2016,Liquefied petroleum gases,16607.702
+2017,Liquefied petroleum gases,16333.495
+2018,Liquefied petroleum gases,16933.436
+2019,Liquefied petroleum gases,16506.599
+1990,Naphtha,1782.029
+1991,Naphtha,1853.815
+1992,Naphtha,2416.487
+1993,Naphtha,2784.907
+1994,Naphtha,2601.94
+1995,Naphtha,2540.794
+1996,Naphtha,2540.627
+1997,Naphtha,2585.639
+1998,Naphtha,2702.828
+1999,Naphtha,2405.166
+2000,Naphtha,2023.371
+2001,Naphtha,1150.019
+2002,Naphtha,956.578
+2003,Naphtha,425.145
+2004,Naphtha,411.328
+2005,Naphtha,212.034
+2006,Naphtha,32.922
+2007,Naphtha,40.271
+2008,Naphtha,38.224
+2009,Naphtha,938.472
+2010,Naphtha,1058.277
+2011,Naphtha,1166.858
+2012,Naphtha,1201.92
+2013,Naphtha,1453.684
+2014,Naphtha,1483.374
+2015,Naphtha,1507.456
+2016,Naphtha,1560.688
+2017,Naphtha,1279.519
+2018,Naphtha,1285.387
+2019,Naphtha,1033.269
+1990,Aviation gasoline,141.932
+1991,Aviation gasoline,134.454
+1992,Aviation gasoline,120.49
+1993,Aviation gasoline,120.461
+1994,Aviation gasoline,118.141
+1995,Aviation gasoline,103.38
+1996,Aviation gasoline,98.418
+1997,Aviation gasoline,112.886
+1998,Aviation gasoline,110.749
+1999,Aviation gasoline,117.228
+2000,Aviation gasoline,110.293
+2001,Aviation gasoline,110.201
+2002,Aviation gasoline,110.568
+2003,Aviation gasoline,106.707
+2004,Aviation gasoline,105.499
+2005,Aviation gasoline,123.012
+2006,Aviation gasoline,102.967
+2007,Aviation gasoline,96.54
+2008,Aviation gasoline,91.307
+2009,Aviation gasoline,107.552
+2010,Aviation gasoline,99.704
+2011,Aviation gasoline,90.923
+2012,Aviation gasoline,75.583
+2013,Aviation gasoline,68.92
+2014,Aviation gasoline,62.381
+2015,Aviation gasoline,62.237
+2016,Aviation gasoline,57.41
+2017,Aviation gasoline,56.572
+2018,Aviation gasoline,59.896
+2019,Aviation gasoline,57.598
+1990,Motor gasoline (excluding biofuel portion),111717.939
+1991,Motor gasoline (excluding biofuel portion),112459.775
+1992,Motor gasoline (excluding biofuel portion),114687.151
+1993,Motor gasoline (excluding biofuel portion),114363.531
+1994,Motor gasoline (excluding biofuel portion),113879.666
+1995,Motor gasoline (excluding biofuel portion),113998.483
+1996,Motor gasoline (excluding biofuel portion),115107.224
+1997,Motor gasoline (excluding biofuel portion),114834.708
+1998,Motor gasoline (excluding biofuel portion),115500.891
+1999,Motor gasoline (excluding biofuel portion),115199.164
+2000,Motor gasoline (excluding biofuel portion),110383.308
+2001,Motor gasoline (excluding biofuel portion),108746.878
+2002,Motor gasoline (excluding biofuel portion),107021.413
+2003,Motor gasoline (excluding biofuel portion),103483.747
+2004,Motor gasoline (excluding biofuel portion),100231.854
+2005,Motor gasoline (excluding biofuel portion),95745.516
+2006,Motor gasoline (excluding biofuel portion),92404.25
+2007,Motor gasoline (excluding biofuel portion),89352.137
+2008,Motor gasoline (excluding biofuel portion),84682.905
+2009,Motor gasoline (excluding biofuel portion),81459.246
+2010,Motor gasoline (excluding biofuel portion),76806.641
+2011,Motor gasoline (excluding biofuel portion),73858.372
+2012,Motor gasoline (excluding biofuel portion),69273.657
+2013,Motor gasoline (excluding biofuel portion),66862.04
+2014,Motor gasoline (excluding biofuel portion),66573.387
+2015,Motor gasoline (excluding biofuel portion),65299.992
+2016,Motor gasoline (excluding biofuel portion),65645.303
+2017,Motor gasoline (excluding biofuel portion),66005.867
+2018,Motor gasoline (excluding biofuel portion),66212.57
+2019,Motor gasoline (excluding biofuel portion),67651.71
+1990,Gasoline-type jet fuel,790.392
+1991,Gasoline-type jet fuel,436.991
+1992,Gasoline-type jet fuel,363.981
+1993,Gasoline-type jet fuel,251.825
+1994,Gasoline-type jet fuel,98.402
+1995,Gasoline-type jet fuel,84.647
+1996,Gasoline-type jet fuel,104.751
+1997,Gasoline-type jet fuel,149.19
+1998,Gasoline-type jet fuel,249.709
+1999,Gasoline-type jet fuel,121.68
+2000,Gasoline-type jet fuel,123.796
+2001,Gasoline-type jet fuel,84.617
+2002,Gasoline-type jet fuel,19.046
+2003,Gasoline-type jet fuel,21.162
+2004,Gasoline-type jet fuel,24.321
+2005,Gasoline-type jet fuel,14.813
+2006,Gasoline-type jet fuel,15.871
+2007,Gasoline-type jet fuel,3.174
+2008,Gasoline-type jet fuel,1.058
+2009,Gasoline-type jet fuel,0.0
+2010,Gasoline-type jet fuel,0.0
+2011,Gasoline-type jet fuel,0.0
+2012,Gasoline-type jet fuel,0.0
+2013,Gasoline-type jet fuel,0.0
+2014,Gasoline-type jet fuel,0.0
+2015,Gasoline-type jet fuel,0.0
+2016,Gasoline-type jet fuel,0.0
+2017,Gasoline-type jet fuel,0.0
+2018,Gasoline-type jet fuel,0.0
+2019,Gasoline-type jet fuel,0.0
+1990,Kerosene-type jet fuel (excluding biofuel portion),4480.73
+1991,Kerosene-type jet fuel (excluding biofuel portion),4612.41
+1992,Kerosene-type jet fuel (excluding biofuel portion),4639.674
+1993,Kerosene-type jet fuel (excluding biofuel portion),4637.564
+1994,Kerosene-type jet fuel (excluding biofuel portion),4566.969
+1995,Kerosene-type jet fuel (excluding biofuel portion),4631.183
+1996,Kerosene-type jet fuel (excluding biofuel portion),4849.838
+1997,Kerosene-type jet fuel (excluding biofuel portion),5070.79
+1998,Kerosene-type jet fuel (excluding biofuel portion),5966.586
+1999,Kerosene-type jet fuel (excluding biofuel portion),6309.453
+2000,Kerosene-type jet fuel (excluding biofuel portion),6522.521
+2001,Kerosene-type jet fuel (excluding biofuel portion),6243.98
+2002,Kerosene-type jet fuel (excluding biofuel portion),5918.049
+2003,Kerosene-type jet fuel (excluding biofuel portion),6047.764
+2004,Kerosene-type jet fuel (excluding biofuel portion),6238.397
+2005,Kerosene-type jet fuel (excluding biofuel portion),6650.121
+2006,Kerosene-type jet fuel (excluding biofuel portion),6728.448
+2007,Kerosene-type jet fuel (excluding biofuel portion),6992.841
+2008,Kerosene-type jet fuel (excluding biofuel portion),6781.189
+2009,Kerosene-type jet fuel (excluding biofuel portion),6178.893
+2010,Kerosene-type jet fuel (excluding biofuel portion),6364.948
+2011,Kerosene-type jet fuel (excluding biofuel portion),6909.714
+2012,Kerosene-type jet fuel (excluding biofuel portion),6504.047
+2013,Kerosene-type jet fuel (excluding biofuel portion),6268.683
+2014,Kerosene-type jet fuel (excluding biofuel portion),6257.126
+2015,Kerosene-type jet fuel (excluding biofuel portion),6372.721
+2016,Kerosene-type jet fuel (excluding biofuel portion),6564.183
+2017,Kerosene-type jet fuel (excluding biofuel portion),6759.839
+2018,Kerosene-type jet fuel (excluding biofuel portion),7037.769
+2019,Kerosene-type jet fuel (excluding biofuel portion),7265.337
+1990,Other kerosene,1135.422
+1991,Other kerosene,1130.438
+1992,Other kerosene,1305.236
+1993,Other kerosene,914.133
+1994,Other kerosene,938.837
+1995,Other kerosene,984.315
+1996,Other kerosene,1117.414
+1997,Other kerosene,1125.627
+1998,Other kerosene,1197.552
+1999,Other kerosene,1223.976
+2000,Other kerosene,1145.699
+2001,Other kerosene,1198.577
+2002,Other kerosene,1227.804
+2003,Other kerosene,1271.413
+2004,Other kerosene,1295.487
+2005,Other kerosene,1311.527
+2006,Other kerosene,1282.731
+2007,Other kerosene,1214.498
+2008,Other kerosene,1352.082
+2009,Other kerosene,1486.909
+2010,Other kerosene,1495.632
+2011,Other kerosene,1211.241
+2012,Other kerosene,1066.76
+2013,Other kerosene,1081.5
+2014,Other kerosene,973.284
+2015,Other kerosene,1125.545
+2016,Other kerosene,1180.982
+2017,Other kerosene,1130.819
+2018,Other kerosene,1212.116
+2019,Other kerosene,1182.187
+1990,Gas oil and diesel oil (excluding biofuel portion),192966.941
+1991,Gas oil and diesel oil (excluding biofuel portion),201446.108
+1992,Gas oil and diesel oil (excluding biofuel portion),202296.676
+1993,Gas oil and diesel oil (excluding biofuel portion),204699.028
+1994,Gas oil and diesel oil (excluding biofuel portion),201013.451
+1995,Gas oil and diesel oil (excluding biofuel portion),205121.611
+1996,Gas oil and diesel oil (excluding biofuel portion),217444.813
+1997,Gas oil and diesel oil (excluding biofuel portion),216934.455
+1998,Gas oil and diesel oil (excluding biofuel portion),224549.805
+1999,Gas oil and diesel oil (excluding biofuel portion),223623.553
+2000,Gas oil and diesel oil (excluding biofuel portion),225053.15
+2001,Gas oil and diesel oil (excluding biofuel portion),238159.838
+2002,Gas oil and diesel oil (excluding biofuel portion),236666.814
+2003,Gas oil and diesel oil (excluding biofuel portion),243758.4
+2004,Gas oil and diesel oil (excluding biofuel portion),249556.716
+2005,Gas oil and diesel oil (excluding biofuel portion),252399.893
+2006,Gas oil and diesel oil (excluding biofuel portion),254379.333
+2007,Gas oil and diesel oil (excluding biofuel portion),245869.37
+2008,Gas oil and diesel oil (excluding biofuel portion),252244.984
+2009,Gas oil and diesel oil (excluding biofuel portion),240283.995
+2010,Gas oil and diesel oil (excluding biofuel portion),241825.711
+2011,Gas oil and diesel oil (excluding biofuel portion),236273.297
+2012,Gas oil and diesel oil (excluding biofuel portion),230498.872
+2013,Gas oil and diesel oil (excluding biofuel portion),230912.543
+2014,Gas oil and diesel oil (excluding biofuel portion),227959.116
+2015,Gas oil and diesel oil (excluding biofuel portion),233535.163
+2016,Gas oil and diesel oil (excluding biofuel portion),237192.219
+2017,Gas oil and diesel oil (excluding biofuel portion),240828.668
+2018,Gas oil and diesel oil (excluding biofuel portion),238267.088
+2019,Gas oil and diesel oil (excluding biofuel portion),238727.716
+1990,Fuel oil,36493.565
+1991,Fuel oil,35340.796
+1992,Fuel oil,30658.536
+1993,Fuel oil,28704.412
+1994,Fuel oil,29567.095
+1995,Fuel oil,27436.299
+1996,Fuel oil,25172.96
+1997,Fuel oil,25594.705
+1998,Fuel oil,25206.001
+1999,Fuel oil,23846.802
+2000,Fuel oil,21053.292
+2001,Fuel oil,20475.061
+2002,Fuel oil,19350.532
+2003,Fuel oil,19668.302
+2004,Fuel oil,17140.689
+2005,Fuel oil,15327.607
+2006,Fuel oil,15861.257
+2007,Fuel oil,14130.189
+2008,Fuel oil,13133.015
+2009,Fuel oil,11001.146
+2010,Fuel oil,8797.872
+2011,Fuel oil,7833.662
+2012,Fuel oil,6615.985
+2013,Fuel oil,5887.67
+2014,Fuel oil,5209.634
+2015,Fuel oil,5438.284
+2016,Fuel oil,5149.6
+2017,Fuel oil,4750.041
+2018,Fuel oil,4567.396
+2019,Fuel oil,4099.604
+1990,White spirit and special boiling point industrial spirits,0.0
+1991,White spirit and special boiling point industrial spirits,0.0
+1992,White spirit and special boiling point industrial spirits,2.981
+1993,White spirit and special boiling point industrial spirits,3.045
+1994,White spirit and special boiling point industrial spirits,3.045
+1995,White spirit and special boiling point industrial spirits,1.015
+1996,White spirit and special boiling point industrial spirits,2.03
+1997,White spirit and special boiling point industrial spirits,2.03
+1998,White spirit and special boiling point industrial spirits,5.075
+1999,White spirit and special boiling point industrial spirits,8.426
+2000,White spirit and special boiling point industrial spirits,2.107
+2001,White spirit and special boiling point industrial spirits,3.16
+2002,White spirit and special boiling point industrial spirits,5.267
+2003,White spirit and special boiling point industrial spirits,4.213
+2004,White spirit and special boiling point industrial spirits,6.32
+2005,White spirit and special boiling point industrial spirits,7.587
+2006,White spirit and special boiling point industrial spirits,8.767
+2007,White spirit and special boiling point industrial spirits,8.285
+2008,White spirit and special boiling point industrial spirits,20.533
+2009,White spirit and special boiling point industrial spirits,9.412
+2010,White spirit and special boiling point industrial spirits,12.894
+2011,White spirit and special boiling point industrial spirits,10.933
+2012,White spirit and special boiling point industrial spirits,11.995
+2013,White spirit and special boiling point industrial spirits,12.303
+2014,White spirit and special boiling point industrial spirits,15.926
+2015,White spirit and special boiling point industrial spirits,16.621
+2016,White spirit and special boiling point industrial spirits,19.58
+2017,White spirit and special boiling point industrial spirits,17.956
+2018,White spirit and special boiling point industrial spirits,17.725
+2019,White spirit and special boiling point industrial spirits,21.973
+1990,Lubricants,0.0
+1991,Lubricants,0.0
+1992,Lubricants,0.0
+1993,Lubricants,0.0
+1994,Lubricants,0.0
+1995,Lubricants,0.0
+1996,Lubricants,0.0
+1997,Lubricants,0.0
+1998,Lubricants,0.0
+1999,Lubricants,0.0
+2000,Lubricants,0.0
+2001,Lubricants,0.0
+2002,Lubricants,0.0
+2003,Lubricants,0.0
+2004,Lubricants,0.0
+2005,Lubricants,0.0
+2006,Lubricants,0.0
+2007,Lubricants,0.0
+2008,Lubricants,0.0
+2009,Lubricants,0.0
+2010,Lubricants,0.0
+2011,Lubricants,0.0
+2012,Lubricants,0.0
+2013,Lubricants,0.0
+2014,Lubricants,0.0
+2015,Lubricants,0.0
+2016,Lubricants,0.0
+2017,Lubricants,0.0
+2018,Lubricants,0.0
+2019,Lubricants,0.0
+1990,Paraffin waxes,0.0
+1991,Paraffin waxes,0.0
+1992,Paraffin waxes,0.0
+1993,Paraffin waxes,0.0
+1994,Paraffin waxes,0.0
+1995,Paraffin waxes,0.0
+1996,Paraffin waxes,0.0
+1997,Paraffin waxes,0.0
+1998,Paraffin waxes,0.0
+1999,Paraffin waxes,0.0
+2000,Paraffin waxes,0.0
+2001,Paraffin waxes,0.0
+2002,Paraffin waxes,0.0
+2003,Paraffin waxes,0.0
+2004,Paraffin waxes,0.0
+2005,Paraffin waxes,0.0
+2006,Paraffin waxes,44.874
+2007,Paraffin waxes,0.0
+2008,Paraffin waxes,11.219
+2009,Paraffin waxes,0.0
+2010,Paraffin waxes,0.0
+2011,Paraffin waxes,0.0
+2012,Paraffin waxes,0.0
+2013,Paraffin waxes,0.0
+2014,Paraffin waxes,0.0
+2015,Paraffin waxes,0.0
+2016,Paraffin waxes,0.0
+2017,Paraffin waxes,0.0
+2018,Paraffin waxes,0.0
+2019,Paraffin waxes,0.0
+1990,Petroleum coke,5091.249
+1991,Petroleum coke,4837.393
+1992,Petroleum coke,4691.903
+1993,Petroleum coke,4400.594
+1994,Petroleum coke,4924.59
+1995,Petroleum coke,5337.03
+1996,Petroleum coke,5702.179
+1997,Petroleum coke,6803.454
+1998,Petroleum coke,6588.843
+1999,Petroleum coke,6866.351
+2000,Petroleum coke,7591.384
+2001,Petroleum coke,7679.309
+2002,Petroleum coke,7807.17
+2003,Petroleum coke,8551.958
+2004,Petroleum coke,9064.523
+2005,Petroleum coke,9542.819
+2006,Petroleum coke,9199.425
+2007,Petroleum coke,8812.621
+2008,Petroleum coke,8599.205
+2009,Petroleum coke,7494.836
+2010,Petroleum coke,7347.727
+2011,Petroleum coke,6817.7
+2012,Petroleum coke,6105.896
+2013,Petroleum coke,5287.275
+2014,Petroleum coke,4937.814
+2015,Petroleum coke,5420.539
+2016,Petroleum coke,5172.465
+2017,Petroleum coke,4774.64
+2018,Petroleum coke,4715.066
+2019,Petroleum coke,4656.673
+1990,Bitumen,0.0
+1991,Bitumen,0.0
+1992,Bitumen,0.0
+1993,Bitumen,0.0
+1994,Bitumen,0.0
+1995,Bitumen,0.0
+1996,Bitumen,0.0
+1997,Bitumen,0.0
+1998,Bitumen,0.0
+1999,Bitumen,0.0
+2000,Bitumen,0.0
+2001,Bitumen,2.88
+2002,Bitumen,3.84
+2003,Bitumen,1.92
+2004,Bitumen,6.72
+2005,Bitumen,6.72
+2006,Bitumen,5.76
+2007,Bitumen,4.8
+2008,Bitumen,4.8
+2009,Bitumen,1.92
+2010,Bitumen,1.92
+2011,Bitumen,2.88
+2012,Bitumen,1.92
+2013,Bitumen,1.92
+2014,Bitumen,1.92
+2015,Bitumen,1.92
+2016,Bitumen,0.96
+2017,Bitumen,0.96
+2018,Bitumen,0.0
+2019,Bitumen,0.0
+1990,Other oil products n.e.c.,828.33
+1991,Other oil products n.e.c.,498.491
+1992,Other oil products n.e.c.,537.007
+1993,Other oil products n.e.c.,436.558
+1994,Other oil products n.e.c.,670.381
+1995,Other oil products n.e.c.,893.984
+1996,Other oil products n.e.c.,1228.13
+1997,Other oil products n.e.c.,1311.211
+1998,Other oil products n.e.c.,392.792
+1999,Other oil products n.e.c.,374.56
+2000,Other oil products n.e.c.,326.011
+2001,Other oil products n.e.c.,718.238
+2002,Other oil products n.e.c.,832.725
+2003,Other oil products n.e.c.,948.775
+2004,Other oil products n.e.c.,1385.311
+2005,Other oil products n.e.c.,947.273
+2006,Other oil products n.e.c.,922.564
+2007,Other oil products n.e.c.,907.796
+2008,Other oil products n.e.c.,893.238
+2009,Other oil products n.e.c.,309.066
+2010,Other oil products n.e.c.,390.704
+2011,Other oil products n.e.c.,396.841
+2012,Other oil products n.e.c.,423.147
+2013,Other oil products n.e.c.,323.715
+2014,Other oil products n.e.c.,483.511
+2015,Other oil products n.e.c.,475.735
+2016,Other oil products n.e.c.,324.381
+2017,Other oil products n.e.c.,190.338
+2018,Other oil products n.e.c.,314.03
+2019,Other oil products n.e.c.,369.493
